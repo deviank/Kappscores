@@ -1,0 +1,4 @@
+*.zip
+*.gz
+log/*.log
+\wp-content\themes\gulp-dev
