@@ -1,0 +1,32 @@
+{
+  "name": "kappscores",
+  "version": "0.0.1",
+  "description": "Accessible WordPress theme utilizing flex layouts and modern development practices.",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deviank/kappscores"
+  },
+  "author": "Devian Kapp",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/deviank/kappscores/issues"
+  },
+  "homepage": "https://github.com/deviank/kappscores/blob/master/README.md",
+  "devDependencies": {
+    "autoprefixer": "^6.7.7",
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-image": "^2.10.1",
+    "gulp-install": "^1.1.0",
+    "gulp-jshint": "^2.1.0",
+    "gulp-newer": "^1.4.0",
+    "gulp-postcss": "^6.4.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "jshint": "^2.9.5"
+  }
+}
